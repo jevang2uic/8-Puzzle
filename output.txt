@@ -1,0 +1,9 @@
+Author Code Number: Holy
+Class: CS 342, Fall 2016
+Program: #4, 8 Tiles UI
+
+
+Welcome to the 8-tiles puzzle
+Place the tiles in ascending numerical order. For each
+move enter the piece to be moved into the blank square,
+or 0 to exit the program.
